@@ -1,0 +1,293 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reflections on that discourse, which a Master of Arts (once) of the University of Cambridg, calls rational presented in print to a person of honour, 1676, concerning transubstantiation / by one of no arts but down-right honesty, at the instance of an honourable person.</title>
+            <author>Anglesey, Arthur Annesley, Earl of, 1614-1686.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25431</idno>
+            <idno type="STC">Wing A3176</idno>
+            <idno type="STC">ESTC R16001</idno>
+            <idno type="EEBO-CITATION">11926667</idno>
+            <idno type="OCLC">ocm 11926667</idno>
+            <idno type="VID">51048</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25431)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51048)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 48:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reflections on that discourse, which a Master of Arts (once) of the University of Cambridg, calls rational presented in print to a person of honour, 1676, concerning transubstantiation / by one of no arts but down-right honesty, at the instance of an honourable person.</title>
+                  <author>Anglesey, Arthur Annesley, Earl of, 1614-1686.</author>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Arthur Annesley, Earl of Anglesey. Cf. NUC pre-1956.</note>
+                  <note>Reproduction of original in Yale University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Transubstantiation.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:51048:1"/>
+            <pb facs="tcp:51048:1"/>
+            <p>REFLECTIONS On that DISCOURSE Which a Maſter of Arts (once) of the Univerſity of
+<hi>Cambridg,</hi> Calls RATIONAL, Preſented in Print to a Perſon of Honour, 1676. CONCERNING Tranſubſtantiation.</p>
+            <p>By one of no Arts, but down-right Honeſty. At the inſtance of an Honourable Perſon.</p>
+            <p>LONDON, Printed in the Year, 1676.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:51048:2"/>
+            <p>
+               <hi>Imprimatur,</hi>
+            </p>
+            <p>Nihil in hoc libello reperio doctrinae Eccleſiae Angli<g ref="char:EOLhyphen"/>canae, aut bonis moribus contrarium,</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Jul. 10, 1676.</hi>
+                  </date>
+               </dateline>
+               <signed>G. Jane.</signed>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:51048:2"/>
+            <p>The four Bulruſh-pillars, ſo confidently Erected for the ſupport of his whole Building, are,
+<list>
+                  <item>
+                     <hi>1. The Poſſibility of it, to Gods Power.</hi>
+                  </item>
+                  <item>
+                     <hi>2. Sayings of the Fathers, ſounding that way.</hi>
+                  </item>
+                  <item>
+                     <hi>3. Oral Tradition ſuppoſed for it.</hi>
+                  </item>
+                  <item>
+                     <hi>4. Miracles ſuppoſed for it.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>The firſt of theſe we deny not; only we are a little confident there is neither ſufficient evidence that it is ſo, nor any need it ſhould be ſo, <hi>(pag. 4).</hi>
+            </p>
+            <p>As to the ſecond, <hi>judicat Lector,</hi> many of his proofs (granting them genuine and true) make nothing againſt us; others muſt be tryed by <hi>Vincentius's</hi> rule: All are reduceable to a ſound ſenſe, in <hi>St. Auguſtine's</hi> or <hi>Origen's</hi> way <hi>(pag, 5, &amp;c).</hi>
+            </p>
+            <p>The third is a mere Chymera <hi>(pag. 6).</hi>
+            </p>
+            <p>The fourth, often illuſive, frequently falſe, never to be truſted to <hi>(Deut. 13.1, 2. Matt. 13.22),</hi> if they run contrary to the writ<g ref="char:EOLhyphen"/>ten word; or have not its concurrence <hi>(pag.
+8).</hi>
+            </p>
+            <p>To each of theſe ſomewhat, though not following him into every diſtinct Paragraph.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="4" facs="tcp:51048:3"/>
+            <head>Romani addictus jurare in Verba Magiſtri,</head>
+            <p>
+               <seg rend="decorInit">T</seg>His Maſter of Arts (as he would have us know) re<g ref="char:EOLhyphen"/>ſolves, firſt, to lay down his Poſition in the moſt am<g ref="char:EOLhyphen"/>ple (not to ſay, prodigious) Terms; and then to try his skill in the Defence of it.</p>
+            <p>
+               <hi>My Sentiments</hi> (ſays he) <hi>concerning the Adorable Euchariſt, is, That it is neither leſs nor more than the Sacred Body and Blood of God; neither leſs nor more than whole-Chriſt, God and man, Soul, Body and Di<g ref="char:EOLhyphen"/>vinity: though for the love and ſervice of Sinners, veſted under the vile Accidents and appearances of Common Bread, and Ordinary Wine.</hi>
+            </p>
+            <p>Concerning which myſtery, his firſt Aſſertion muſt be, That it is poſſible to the Omnipotent Power of God.</p>
+            <p n="1">1. And (I muſt confeſs) this ſhew of an Argument went far with me, whilſt I was born in hand, and did think (for even I alſo had Eſpouſed certain miſ-beliefs, during my Minority, by the prevalency of Eudcation) That the vile <hi>Proteſtants</hi> had denied the Lord God to be Almighty, upon this very account; but it ceaſt (by the Divine Goodneſs) to be ſo with me, when I could not but diſcern, and at length was fully convinc'd,
+<list>
+                  <item>1. That the true intent, purpoſe, and meaning of our Saviour, did not at all oblige us to think of Tranſubſtantiation.</item>
+                  <item>2. That there is no neceſſity, import, or uſe for it (no ſervice, as our Author phraſes it) in the Chriſtian Church.</item>
+               </list>
+            </p>
+            <p>And I ſhall candidly declare (leaving the philoſophical impoſſibility of Tranſubſtantiation to be demonſtrated by ſome other hand) what has given me intire ſatisfaction as to this great Point.</p>
+            <p>I perceive by Chriſts own words, (recorded <hi>Joh.</hi> 6.53.) that I am under an abſolute neceſſity of eating his Fleſh, and drinking his Blood; And there<g ref="char:EOLhyphen"/>fore, having (in the firſt place) conſidered of how great concern it is, to arrive at the true meaning of them, I do humbly ſupplicate the Divine Majeſty, That he will give me (ever) to think comprehend, ſpeak of, and go about that great Myſtery ſo, as may be beſt pleaſing to him, and moſt expedient for my foul.</p>
+            <p>His own Paraphraſe on what he had ſaid, cannot deceive me, I dare be<g ref="char:EOLhyphen"/>lieve (ſince he ſo told his inquiſitive Diſciples, <hi>Verſ.</hi> 63.) That the life of
+<pb n="5" facs="tcp:51048:3"/>them is wrapt up in a Spiritual acception. And ſince, he declares (where he terms himſelf the Bread of Life, <hi>Verſ.</hi> 35.), That whoſo cometh to him, (which is the peculiar act of Faith, <hi>Joh.</hi> 1.12,) ſhall never hunger; ſince he attributes moſt clearly (in purſuit ſtill of the ſame Metaphor) the quenching of thirſt, to believing; what need we, how can we doubt any more of the matter? He takes off their amazement, and gives ſtop to their murmurs, (<hi>Verſ.</hi> 61.) not by telling them, That though they were to ſee him aſcend up where he was before, yet they were ere long to have him corporally preſent (in the form of Bread) on ten thouſand (diſtant) Altars at once; nay in the very jaws of every Perſon (how wicked ſo<g ref="char:EOLhyphen"/>ever) that comes but to eat there: He does not, I ſay, make his return at this rate, but inſtructs them how to Spiritualize the whole buſineſs, <hi>Verſ.</hi> 62, 63. Neither would there be any thing difficult or obſcure in the words of Inſtitution afterwards: For, (beſides, that he had here pre-in<g ref="char:EOLhyphen"/>ſtructed them), There was almoſt nothing among the
+<hi>Jews</hi> (which had Type or ſignificancy in it) but was expreſſed in this very manner: Cir<g ref="char:EOLhyphen"/>cumciſion, the Paſchal-Lamb, Manna, the Rock, were all ſufficiently known to carry the names of thoſe things they did but adumbrate.</p>
+            <p>There is one Scripture, (<hi>Joh</hi> 6.) <hi>He that eats my fleſh, and drinks my blood, hath eternal life abiding in him, and I will raiſe him up at the laſt day.</hi>
+            </p>
+            <p>Hence hath the memorable <hi>
+                  <g ref="char:V">Ʋ</g>ſher</hi> framed this Syllogiſm, I think irrefra<g ref="char:EOLhyphen"/>gable.</p>
+            <p>The Body and Blood of Chriſt is received unto Life, by all that do receive it, and by none unto Condemnation:</p>
+            <p>But, that which is (outwardly) delivered in the Sacrament, is not received by all unto Life; but by many unto Condemnation; <hi>Ergo,</hi>
+            </p>
+            <p>Therefore, that which is outwardly taken in this Sacrament, is not really the Body and Blood of Chriſt.</p>
+            <p n="2">II. This Spiritual manducation (and none other) was the true ſenſe of the Primitive Church.</p>
+            <p>I prove it by Saint <hi>Auguſtine,</hi> in his 26th Tract he hath theſe words; The Sacrament of this thing (<hi>viz.</hi> of our eating the Fleſh of Chriſt) is taken from the Lords Table, by ſome unto Life, by ſome unto Deſtructi<g ref="char:EOLhyphen"/>on: But the thing it ſelf (whereof it is a Sacrament) is received by eve<g ref="char:EOLhyphen"/>ry man (that does receive it) unto Life; and by none unto Deſtructi<g ref="char:EOLhyphen"/>on. <hi>Proſper</hi> (from him) tells us, <hi>Qui diſcordat a Chriſto nec carnem ejus manducat, nec Sanguinem bibit.</hi> More plainly yet, St. <hi>Auguſtine</hi> again, (on
+<hi>Pſal.</hi> 97.) With the moſt holy Sacrament, not the Fleſh which was Crucifi<g ref="char:EOLhyphen"/>ed, is carnally eaten; but the virtues of that Fleſh are really eaten by the Soul, in ſuch manner as the Soul can eat; that is, Spiritually, by her af<g ref="char:EOLhyphen"/>fections, and other immanent real acts, of internal Operations.</p>
+            <p>Wee'l own (and that without any prejudice to our cauſe), That many of the Fathers did chuſe, and were delighted to imitate our Saviours way
+<pb n="6" facs="tcp:51048:4"/>of Locution (even through long diſcourſes); yet 'tis evident we ought to underſtand them, as <hi>Origen</hi> (after he had played the Rhetorician, in this ſort) concludes (on <hi>Matth.</hi> 15.) <hi>Et haec quidem, de typico ſymbolicoque Cor<g ref="char:EOLhyphen"/>pore.</hi>
+            </p>
+            <p>
+               <hi>Auguſtine</hi> (Queſt. 13. in <hi>Levit.</hi>) ſays, Seven Ears of Corn were ſeven years, and the Blood is called the Soul after the manner of Sacraments: And what think you, muſt there not needs be a Figure in that ſpeech of Chriſt, when (in<g ref="char:EOLhyphen"/>ſtituting the latter part of this Sacrament) he pronounced, <hi>This Cup is the New-Teſtament? Luk.</hi> 22.20.</p>
+            <p>If the Maſter of Arts wll but bring along with him one Note out of St. <hi>Vincentius</hi> (without which all the reſt ſignifie but little) we will joyn iſſue with him. 'Tis this;</p>
+            <p>Neither ſays he (in that little Book (I do not quote the page, becauſe the whole is but ſmall) are all ways, and all kinds (he means of Innova<g ref="char:EOLhyphen"/>tions) to be impugned after this manner,<note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the
+<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ruch's
+<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>adition</note> but ſuch only as are new, and lately ſprung; whil'ſt by the ſtraitneſs of time they be hindred from fal<g ref="char:EOLhyphen"/>ſifying the rules of the ancient Faith; and before (their poiſon ſpreading) they attempt to corrupt the writings of the Elders.</p>
+            <p>Oh, my Friend, are we arrived there? Nay, then we ſhall do well e<g ref="char:EOLhyphen"/>nough; the world is pretty well advertiſed (by ſeveral hands) what your Church of <hi>Rome</hi> has done in that kind; and I hope there are ſome inſtan<g ref="char:EOLhyphen"/>ces in my Triple-Crown.</p>
+            <p n="3">III. We have left (yet) one thing behind, which though it be <hi>Vox &amp; prae<g ref="char:EOLhyphen"/>teria Nihil,</hi> is thought able (in the hands of this Maſter of Arts) to ſtrike us all dumb, I mean Oral Tradition: But, pray Sir, was not that the ſame, whereby the Law of God was become of none effect (and ſo decla<g ref="char:EOLhyphen"/>red by himſelf, <hi>Matth.</hi> 15.) in our Saviours time?</p>
+            <p>He that conſiders the Parable (<hi>Matth.</hi> 13.24.) will not wonder that the Lord of the Field ſhould ask, Whence are thoſe Tares? And when I read the Eleventh to the <hi>Romans,</hi> at Verſ. 22, I cannot hinder my ſelf from concluding it very poſſible, that that Church (alſo) may be cut off.</p>
+            <p>Surely many Circumſtances that co-operated to the debauching of the Jewiſh-worſhip, have paſſed likewiſe over the <hi>Romiſh:</hi> Inundation of Bar<g ref="char:EOLhyphen"/>barians, Ignorance, Ambition, have had ſeveral runs, and long reigns too: ask <hi>Platina,</hi> If this Calumny was invented by Proteſtants.</p>
+            <p>I muſt confeſs, 'twas leſs abhorrent to my reaſon when you pinned all upon the ſingle infallibility of the Chair at <hi>Rome,</hi> (by vertue of a promiſe, if any ſuch could have been produced) than to let all hang (now) on ſo wavering a pin as Oral Tradition. The moſt think (I hope) Dr. <hi>Tillot<g ref="char:EOLhyphen"/>ſon</hi> has pretty well beaten you off from that ſhred of a ſhelter. And would you but impartially peruſe the late Biſhop <hi>Coſin</hi> his Hiſtory of your Tran<g ref="char:EOLhyphen"/>ſubſtantiation, you would not (ſure) talk ſo vainly of Bakers bread, and the like Flams. We own ſuch a real preſence (even <hi>Calvin</hi> himſelf does
+<pb n="7" facs="tcp:51048:4"/>ſo) of the Body and Blood of Chriſt, to every due receiver; as either the Scripture or true Primitive Fathers do require; without needing any of thoſe Philoſophical Diſquiſitions, which your notion (as to this great point) muſt engage all Mankind unto, if they be not meer Animals.</p>
+            <p>For to tell us, that all your good Catholicks hold firmly the thing, though they diſpute the manner of Tranſubſtantiation, (when the whole ſtands upon no ſure foot, either of Divine Revelation, or ſufficiently made<g ref="char:EOLhyphen"/>out teſtimony, and is altogether unaccountable at the Bar of Reaſon) will not (ſure) make any Proſelytes.</p>
+            <p>When I find (<hi>Heb.</hi> 7.27.) that our High prieſt needeth not dayly to offer up Sacrifice; for this he did once, when he offered up himſelf; I wonder in what ſhape the neceſſity of a dayly true and proper Sacrifice ap<g ref="char:EOLhyphen"/>peared to get poſſeſſion of ſo many mens Phancies, eſpecially if the laſt verſe of the next Chapter, and its coherence might be conſidered.</p>
+            <p n="4">IV. Now Sir, I muſt acknowledg your learned Harang concerning mira<g ref="char:EOLhyphen"/>cles, is very Seraphical and highly ſurprizeing: give me leave (to ſerve you) by adding thereto a few remarques, the Collection whereof (out of a huge Volume) was a whole tedious winters work unto me, but diverted my Company, ſometimes as we ſate over our Coal fire in the Country.</p>
+            <p>Be it known unto all men (therefore) by theſe preſents, That a couple of great
+<hi>Romiſh</hi> Doctors, (whether they were Maſters of Arts, or no, I know not (<hi>Claudius de rota,</hi> and <hi>Jacobus de Voragine,</hi> printed at <hi>Lions,</hi> Anno 1519, to be read to the people on Holy-days, and to heighten their zeal, (as the prefixt Epiſtle declares), and for the direction of Pariſh-Prieſts; A golden Legend, wherein there are plenty of ſuch Stories as (here) follow.</p>
+            <div type="part">
+               <head>Fol. 100. latter page.</head>
+               <p n="1">1. A certain Woman, deprived of the comfort of her Husband and hav<g ref="char:EOLhyphen"/>ing one only Son, whom ſhe loved dearly: This Son hapned to be taken by his Enemies, and faſt bound in priſon; which when the Mother came to know, ſhe wept beyond all expreſſion: But having an huge Devotion towards the bleſſed Virgin, ſhe plyed her with Prayers for his deliverance: At laſt, ſeeing that that would not do, ſhe goes all alone into the Church, where there was a graven Image of the Virgin; and our Saviour in her arms: This diſconſolate widow placing her ſelf juſt before the Image, ſpeaks to it in theſe words, <hi>O bleſſed Virgin, Thus long have I ſupplicated thee for my ſons freedom, but without effect; thou haſt had no pity on me, a poor Mother; I have implored thine aſſiſtance and patronage for him; but with<g ref="char:EOLhyphen"/>out any fruit. Therefore now, as my Son is taken from me, ſo I'le teke thy Son from thee, and put him in ſafe Cuſtody, as a pledg for mine.</hi> This ſaid, ſhe ſnatch'd away the Child which the Virgin held cudling in her arms;
+<pb n="8" facs="tcp:51048:5"/>away ſhe hyes home with it, laps it up in pure Linnen, puts it in a Cheſt, and locks it very (yea, very) ſecurely; rejoycing (now) that ſhe had got ſo good a Pledg for her Son. She watches it very diligently; and behold, the night following, the bleſſed Virgin appears to the young man in priſon, throws open the Door, knocks off his Fetters; bids him go out, and tell his Mother, That ſince ſhe had got her Son again, ſhe muſt reſtore to her likewiſe her own. The releaſed Captive does ſo; there was (then) joy enough; They took the Image of the Child, go (both of them) to the Church, put it where they found it; the Woman ſaying, Lady, I thank thee, that thou haſt returned my only Son to me: And lo, here is now thine again; Foraſmuch, as I do own the receit of mine.</p>
+            </div>
+            <div type="part">
+               <head>Fol. 151.</head>
+               <p n="2">2. There was (at another time) a Thief that had committed many Rob<g ref="char:EOLhyphen"/>beries: But yet this Thief had great Devotion to the bleſſed Virgin; and ſa<g ref="char:EOLhyphen"/>luted her (I cannot Engliſh the word in the Original otherwiſe, for it is <hi>crebrius ſalutavit</hi>) very often. At an unluc<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y ſeaſon, this Youngſter plays one of his prancks, is apprehended, arraign'd, and adjudged to die by the Rope; but when he was thrown off the Ladder, immediately the Virgin (<hi>horreſco referens</hi>) was not only at his elbow; but for three whole days ſeemed (that is, was ſeen by him, and I know not whether by others too) ſo to ſupport him, as he felt no harm.</p>
+               <p>Thoſe that hanged him (paſſing by, and ſeeing him alive, with chearfulneſs in his looks) did imagin the Fatal-cord had not been right noos'd; were about to have diſpatch'd him with their ſwords; but bleſſd <hi>Mary</hi> (ſo the Book phraſes it) oppoſed her own hands to the blows, and they could not hurt him. Knowing then, and hearing him relate, That the Virgin was ſo much his friend; they took him down, diſmiſt him: And he betaking himſelf to a Monaſtery, ſpent the reſt of his days in the ſervice of the Mother of God; that is (as I humbly conceive) in repeating <hi>Ave-Marias</hi>'s.</p>
+               <p>This is fully enough, as to temporal deliverances. But obſerve next, matters of an higher frame; and if your faith cannot get up to them, you'l find enough to wounder at.</p>
+               <p n="3">3. I do not cite the page, not having the Book by me: But I am ſure it's there.</p>
+               <p>There was (once) a good old Prieſt in <hi>France,</hi> near an arm of the Sea, who never fail'd to ſing the Canonical hours of the Virgin <hi>Mary,</hi> very duly: But ſo it hapned, that he had croſſed the water to a certain Town; and there lay'd with another mans Wife. As he came back (over this mouth of the River <hi>Sein</hi>), and had no body in the Boat with him, He began to Chant the foreſaid hours; and juſt as he entred upon the In<g ref="char:EOLhyphen"/>vitatory <hi>(Ave Maria gratia plena)</hi> he was in the midſt of the Flood;
+<pb n="9" facs="tcp:51048:5"/>when an huge Troop of Devils threw him and his little Ship together headlong into the Deep. But on the third day after the Mother of Jeſus (and in her Company a great many Angels) came to the place where thoſe Devils were tormenting him, ſhe ask'd them, why they ſo unjuſtly afflicted the Soul of her Servant? they made anſwer, We ought of right to have him, for we took him in our employment; nay, ſays ſhe, but if they ought to have him whoſe work he was about, Give me him, for he was ſinging my Mattens when you ſlew him; therefore you (who never did ſo much for me) are more guilty. Hearing this, thoſe foul Fiends ſneak'd away. She reſtored his Soul to his Body, took him by the arm, made the waters ſtand as a wall on both ſides to guard him, brought him (delivered thus from a double death) ſafe to ſhore. He falls down, em<g ref="char:EOLhyphen"/>braces her knees, beſeeching her to tell him what he ſhould do for her who had delivered him from the jaws of the Lion, and the pit of Hell: She gently deſired him, <hi>That he would not commit adultery any more, leſt a worſe thing happen unto him; and ſaid further,</hi> which is the up-ſhot and de<g ref="char:EOLhyphen"/>ſign of the Story) <hi>I intreat one thing more of thee, that thou wilt</hi> (for ever) <hi>with devotion keep the feaſt of my Conception on the 6th of the Ides of De<g ref="char:EOLhyphen"/>cember, and preach it up, that all may do ſo.</hi>
+               </p>
+               <p>How will they ever look this bleſſed Mother of our Lord in the face, hat have ſaid ſuch wild things to her, and of her?</p>
+            </div>
+            <div type="part">
+               <head>Fol. 124. latter page.</head>
+               <p n="4">4. Hearken to a ſtrange Story, which our Author ſays he had from a fa<g ref="char:EOLhyphen"/>mous Doctor.</p>
+               <p>There was a Woman who (her Husband being dead) fell into deſpair, with foreſight of poverty: to her the Devil appeared; telling her, If ſhe would do his will, he would make her rich enough; ſhe conſents: and he en<g ref="char:EOLhyphen"/>joyns her, Firſt. That ſhe ſhould draw all Eccleſiaſtical Perſons that came to her houſe (for we may ſuppoſe her an Hoſteſs) into Fornication. Secondly, That ſhe ſhould ſeem to take in poor people on the day-time, and then at night turn them out. Thirdly, That ſhe ſhould hinder Prayers in the Church, by chatting or ſcolding. Fourthly, That ſhe ſhould never confeſs. At laſt, She comes to die; her Son (a good well-meaning young man) would have her to Confeſſion: But ſhe (telling him what ſhe had done) cries out, ſhe could not confeſs, neither would it do her any good: But after he had wept pitifully a great while, and promiſed he would do Penance for her; at length ſhe became compunct, and ſent away this Son of hers for a Prieſt: But ſeeing that the Devil (before he had got back) had ruſh'd upon her, and ſhe through fear and horrour was dead; he (confeſſing in her ſtead, and having done ſeven years Penance for her) ſaw his Mother come again, and render him abundance of thanks, for ſhe was thereby (here lies the marrow of the matter) out of Purgatory.</p>
+               <p>
+                  <pb n="10" facs="tcp:51048:6"/>Theſe are pretty, mild, benevolent Treatments, and may work right on ſoft gentle Spirits; but there are too, rough ſtubborn hearts which muſt be broken: liſten therefore to a pleaſant Tale.</p>
+            </div>
+            <div type="part">
+               <head>Fol. 143.</head>
+               <p n="5">5. (For the honour of St. <hi>Nicholas</hi>) This Saints Letany (or rather his Legend) had not been received in the Church, called <hi>Sancta-Cruce;</hi> The Brothers all ſollicite their Prior, that they might ſing it; he (a Puritani<g ref="char:EOLhyphen"/>cal old man) would not conſent, ſaying, he liked not Novelties. The <hi>Friars</hi> were (ſtill) very urgent with him, ſo that at laſt he told them roundly, that he would never have any new (yea, jocular) Songs in his Church, deſiring them to be content. You muſt know (though) that when St. <hi>Nicholas</hi> day drew near, and many of thoſe Brothers ſung their Mattens all in grief (their Day-break Mattens it muſt be underſtood, for they were gone to Bed ſoon after, as the Book holds forth), in comes St. <hi>Nicholas,</hi> looks grim on the poor Prior, drags him from his Bed by the hair of the head, and thumping it ſoundly againſt the Pavement of the Dormitory, He begins this Antephony:
+<hi>O Paſtor Bone,</hi> &amp;c. at eve<g ref="char:EOLhyphen"/>ry ſtop or pauſe through the whole, giving him a ſound Laſh upon the bare—(with Rods he had brought with him for the very nonce) doub<g ref="char:EOLhyphen"/>ling them in order, and ſinging in a ſlow manner, till he came at the very end. And now when all the reſt were rouſed by the Out-cries of the Prior, they found him half dead, and drew him into his Couch again. At laſt he came to himſelf, and only ſaid, Go your ways, ever hereaſter be ſure to ſing the new Hiſtory of St. <hi>Nicholas.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Fol. 38, the latter page.</head>
+               <p n="6">6. There is one ſo quaint, ſo fine, and well contrived, that I cannot paſs with<g ref="char:EOLhyphen"/>out it, (though I ſtep a great way back to retrieve it), and it runs thus:</p>
+               <p>A Soldier of great rank, gave over that Trade, and put himſelf into a Monaſtry; the Prior and Brothers were out of Countenance, to have a man of ſo much repute in any inferior employments; but it ſeems none might come to the preferment of being one of them (I gueſs this might be in, or about the ninth Age) unleſs he were Book-learned; ſo they ſet one to teach him to read: he could never reach further than <hi>Ave-Maria,</hi> all <hi>England</hi> (yet it was (I think) in <hi>Spain,</hi> or rather in the <hi>Indies,</hi> before their diſcovery) could not make him advance beyond thoſe two words: but them he cons to ſome purpoſe, walking, eating, or whatever he was a<g ref="char:EOLhyphen"/>bout, he repeated them: And lo! when he dyed, there grew upon his grave a delicate white Lilly, and every Leaf had <hi>Ave-Maria</hi> upon it in Golden Letters; the whole Covent were in a ſteer upon this miracle; and
+<pb n="11" facs="tcp:51048:6"/>having opened his reſting-place or Tomb, found that the root of the Flower was in his very mouth, thence they concluded how highly his Devotion was accounted of by God. The ſame place gives us the Hiſtory of ano<g ref="char:EOLhyphen"/>ther Military-man; who having a Caſtle near a road, rob'd all that came near him without any compaſſion; yet this man, whatever his buſineſs was, would not leave the Virgin <hi>Mary</hi> unſaluted in the morning. It hapned that an holy Man of God was paſſing by, is ſeized upon by theſe Troopers: He requires them to carry him before their Captain, for he had a great ſecret to impart to him. Come before him, he begs of him that he would cauſe all his retinue to be called together, and he would preach to them the word of God. It's done forthwith; but the Holy Man told them, there was not all, they ſaid all were there; ſtill he inſiſted on't, and bid them go to the pole diligently; at laſt, one cries out, the Groom of the Chamber is wanting; he's ſearcht for, ſound, and brought in, hangs back, makes ter<g ref="char:EOLhyphen"/>rible ugly faces, and cannot be forced to look that way the Prieſt ſtood: who going to him, Adjures him to tell truly who he was, and upon whoſe errand he came thither: Out, alas, exclaims the Groom; Now I am adju<g ref="char:EOLhyphen"/>red, all muſt out: Truly I am no man, but a Devil; here I have been (ſent by <hi>Belzebub</hi> our Prince) to watch this Soldier theſe forty long years; and if ever I could have found a day whereon he had not ſaid the Salutation, he had been ours, and hurtied to hell with all his ſins about him; but he never left of that armour of Proof. The Captain at this was huge<g ref="char:EOLhyphen"/>ly amazed, caſt himſelf at the Holy Mans feet, and as may be hoped mend<g ref="char:EOLhyphen"/>ed. The Fiend was packt away too with this injuction: <hi>I Command thee, Devil, to depart, confining thee to ſuch a place; and be ſure thou never hurteſt any that does invoke the Glorious Mother of God.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Fol. 87.</head>
+               <p n="7">7. Another man with a ſword, having waſted all his plentiful eſtate pro<g ref="char:EOLhyphen"/>fuſely, had yet a Wife ſingularly addicted and devoted to the bleſſed Virgin. A time drawing near wherein he had uſed to expreſs large boun<g ref="char:EOLhyphen"/>ty, but finding too he could not do ſo ſtill, for very ſhame he withdrew into a ſolitary place to bewail his Condition; where behold, an huge terri<g ref="char:EOLhyphen"/>ble Horſe, with one on his back no leſs ſo, came towards him; the Rider ask'd, why ſo ſad? well, he told him; whereto the Devil (for 'twas no other) replyed, do what I'le Command thee, and thou ſhalt have wealth at will. That bargain was ſoon ſtruck; and the very good Wife too, given to Satan, made the Condition; Houſes, Lands, and all fine things are ſoon re-purchaſed; but at laſt the promiſed time comes The man calls his Wife, bids her make ready to take along journey with him, ſhe tremb<g ref="char:EOLhyphen"/>ling, and ſuſpecting ſome ill, yet not daring to diſobey; Commends her ſelf moſt devoutly to the Virgin, and ſo mounts on Horſe-back behind her Husband. After they had rid a good way, they came cloſe by a Church;
+<pb n="12" facs="tcp:51048:7"/>ſhe leaps off, and enters, he ſtays for her without; but whilſt ſhe pray'd fer<g ref="char:EOLhyphen"/>vently to the Virgin, ſhe fell ſuddenly faſt aſleep: And lo, that glorious Virgin (in the habit and likeneſs of the Wife) came off from the Altar, gets up behind the man, and away they went; when they came within ſight of the place where the Devil ſtood, greedily expecting them; the Fiend fell a quaking, and having ſaid, Didſt not thou engage to bring thy Wife to me, whom I meant here to have been avenged of for all the harm ſhe has done me; and thou haſt brought the Mother of God, who will puniſh me, and ſend me down to Hell. At this the Soldiers courage failed, he was not able to utter one word; but the bleſſed <hi>Mary</hi> did, ſaying, <hi>Thou wicked ſpirit, how dareſt thou offer to think of hurting one of my ſervants, thou ſhalt not skape for this; get thee to Hell,</hi> &amp;c. The Devil preſent<g ref="char:EOLhyphen"/>ly ſneak'd away, howling; the man (being inſtructed by her) got his yet-ſleeping Wife by the hand, wakes her, joggs merrily home, and lived (I cannot tell how long) well together.</p>
+               <p>And now (if this be true) who that can but ſay <hi>Ave Maria,</hi> before he breaks his faſt, need care how he ſpends the day? hot Adulteries, Thefts, Robberies, Compacts with Satan, &amp;c. all are brought eaſily off; not only the bleſſed Virgin, but Saint <hi>Barbary,</hi> (Fol. 155) have been able to ſecure their Votaries from dying without Confeſſion and prieſtly abſo<g ref="char:EOLhyphen"/>lution: and we ſee here, that they may either have it done effectually up<g ref="char:EOLhyphen"/>on themſelves, or by others in their ſtead after their departure, (as in Story 4). Nay, one may have a fair pull to be brought out of Purgato<g ref="char:EOLhyphen"/>ry or Hell without much harm, (as in Story 3).</p>
+               <p>This is ſuch a way of making Chriſts yoke eaſie, and his burthen light, as he (doubtleſs) never thought of; it may be indeed the product of Oral Tradition.</p>
+               <p>We will have but one more, Fol. 79. latter ſide.</p>
+               <p>A little before the world was bleſt with the preaching-Order of Saint <hi>Dominick,</hi> the bleſſed Mother was ſeen (by a certain Monk) on her knees before Chriſt, importuning him for the ſparance of Mankind: He denyed her often, yet ſtill ſhe interceded; then he thus beſpeaks her, <hi>O Mother! what can I do more, or what ought I more to do? I ſent Patriarchs, little or no amendment followed; I ſent Apoſtles, Doctors, Martyrs, ſtill no better; but becauſe 'tis not lawful to deny you, I'l ſend Preachers of my own, meaning the</hi> Dominicans; yet another relates after this manner:</p>
+               <p>
+                  <hi>Dominic</hi> himſelf, whileſt he was at <hi>Rome,</hi> ſaw in a Viſion Chriſt ready with three Darts to deſtroy the World: But his Mother comes to him with theſe words,
+<hi>Good Son, temper your anger; I have in ſtore a faithful ſtrenuous Champion, lets ſee what he can do, and I will add a Coadjutor to him full as worthy:</hi> To this Chriſt replies, <hi>I have accepted your ſuit; but</hi> (pray) <hi>what man is this?</hi> Then ſhe pointed out St.
+<hi>Dominic;</hi> yes, ſays he, <hi>this is a man indeed:</hi> next St. <hi>Francis</hi> was ſhewed, and got the ſame ap<g ref="char:EOLhyphen"/>plauſe; ſo the eſtabliſhment of their Orders were decreed (for no body
+<pb n="13" facs="tcp:51048:7"/>durſt oppoſe it after ſo miraculous a Viſion) and what work they have made in the world, let all men judg, or at leaſt we ſhall know at the laſt day.</p>
+               <p>Theſe are a few out of many thouſands, wherein nothing but prodigious folly, lightneſs, ſuperſtition; nay, <hi>Phanataciſm</hi> (truly ſo called)can be diſcerned, generally uſed even till that day, as the Printer tells us, having finiſht that happy work, Anno
+1519.</p>
+               <p>And here I do call upon the late Author of the Catholick Naked Truth, to tell us, how he will (with all his flanting Rhetorick) bring off his ſo highly celebrated Church from the allowed (publickly countenanced) practiſe of moſt groſs Superſtition, Idolatry, and Sin; theſe are not untrue ſlanders invented by Proteſtants, nor ſingle conceits of ſome whimſical, diſtemper'd, inconſiderate Man (the uſual way he takes to daub over the greateſt ſpots in her face) but the common known mode of thoſe times. Again, he knows well enough how familiar it has been with them to grant (for money) Licenſes of Concubination; and what was, (for ought I know) is yet the common uſe of thoſe Indulgences, which he repreſents as ſo holy, ſo inno<g ref="char:EOLhyphen"/>cent, ſo juſtifiable. Irrationally, whilſt he denies the imputation of Chriſts merits to truly penitent Converts; allowing the imputation of the trea<g ref="char:EOLhyphen"/>ſure of the-Church (in Saints merits) by the Pope, to all that have but confeſſed to a Prieſt, with ſome ſemblance of Attrition.</p>
+               <p>Let him receive one Note (and make the beſt he can of it) in reference to his ſo much talk'd of Oral Tradition: The preſent Jews ſeem to be as fond of, and as careful in that fine thing as ever they were; and we cannot ſuppoſe they are leſs unwilling then we, every man to deceive his Child; yet, is it not notorious, what ſtrange and incredible notions they have ad<g ref="char:EOLhyphen"/>mitted into their full belief.</p>
+               <p>To conclude, I do not think (as this Gentleman well, and with much Art obſerves) it probable, that a pack of men could all in a night build an houſe, and the next day make all the nation believe it was brought to that place by Angels, out of a far Countrey; yet it is (me-thinks) poſſible, that (in an Age wholly given to place their Religion in adoring and adorning Images, in founding and enriching Monaſtries) a combined company of men, all of that frame, might pitch upon ſuch a convenient ſpot as <hi>Loretto,</hi> where was a venerable old Edifice ſtanding, and with eaſe enough might perſwade the people (who were taught ever and anon to gape a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ter ſuch news from Heaven) that ſome Anchorite, Hermit or Monk, had (now) a Revelation, (and with it a Command) to aſſure the world, This anci<g ref="char:EOLhyphen"/>ent happy ſtructure had travelled on the backs of Miniſtring Spirits (a Cen<g ref="char:EOLhyphen"/>tury or two before) even as far, and by what Stages themſelves ſhould think fit. He cannot be ignorant how many famous Foundations have been laid upon the account of ſuch Coeleſtial diſcoveries; if he be, let him but peruſe that Volume out of which I took the foregoing relations, and he
+<pb n="14" facs="tcp:51048:8"/>will find abundance of ſuch a nature, as muſt needs ſtop the mouth of his Credulity, be it as wide and as voracious as it will.</p>
+               <p>I have read that trim Book wherein the Jeſuit <hi>Turcillin</hi> ſweats ſo much to prove this weighty point (touching <hi>Loretto</hi>), and I did it once in the company of an honeſt wiſe man (of <hi>Romes</hi> Religion) but I dare appeal even to himſelf, whether what we found there, gave not occaſion for him to run off, and me to keep my ground.</p>
+               <p>Implicit Faith ('tis true) involves all, may take in any thing; but he that finds in that Elaborate Piece, what may create a rational belief (I am ſure there is no Scripture evidence, nor Revelation of that kind for it) muſt uſe better ſpectacles (or rather magnifying glaſſes) then ever I coould find out; and both my Age and other obligations require, that I ſhould make the beſt Queſt I am any way able. My laſt reflection (upon what I find in this Authors 41 page) ſhall be, to take heed how we follow a Multi<g ref="char:EOLhyphen"/>tude.</p>
+               <p>It was <hi>Diana,</hi> the <hi>Epheſians</hi> and all the world were once ſaid (confidently enough) to Worſhip.</p>
+               <p>That we may apply the four or ſix laſt pages to our preſent enquiry, (the Infallibility of Oral Tradition back'd with miracles) Let us ſuppoſe, in re<g ref="char:EOLhyphen"/>ference to the third ſtory, that the French Prieſt had ſtood in a Corner, (when he was a pregnant forth-putting youth) and heard his Father ſay, If any Perſon had a particular Devotion to the bleſſed Virgin, St.
+<hi>Bridget, Jerom,</hi> or any other Saint, and (committing the care and conduct of his life to their guidance) was careful (daily) to perform to them, or for their ſake, (ſome ſingular Act of Piety (ſuch as ſaying over ſo many <hi>Aves, Pater-Noſters,</hi> or the like) He might be ſure not to fail in his laſt and great conern; he ſhould not miſs of, before his death, time to Confeſs, and receive Prieſtly Abſolution: If he had over-heard his grave Parent farther whiſper, That in reſpect of a marryed eſtate in the Clergy (for we will imagine it to be ſince St. <hi>Dunſtan</hi>'s days) Concubination or Adultery were but Pec<g ref="char:EOLhyphen"/>cadillio's, (a notion that the frame of this and other Legends were very likely to produce) how could he chuſe but give reins to his appetite upon this account; and think he was as good a Chriſtian as the Ages be<g ref="char:EOLhyphen"/>fore had required a man to be? And the ſucceeding Age, probably the Ninth, would not ſee any reaſon, but to go on in the ſame path, as we may conjecture they did, from a conſiderate view of the hundred Grievances, by the <hi>Germans</hi> preſented to the Popes Legat a few years after, the pub<g ref="char:EOLhyphen"/>lication of thoſe illuſtrious Novels.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:51048:8"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
